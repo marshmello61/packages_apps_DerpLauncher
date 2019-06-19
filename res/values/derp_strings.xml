@@ -166,4 +166,17 @@
     <string name="hotseat_bg_title">Show hotseat background</string>
     <string name="hotseat_bg_summary">Adds a translucent background to the app dock</string>
 
+    <string-array translatable="false" name="welcome_message_variants">
+        <item>Thank you for choosing DerpFest built by Mayur</item>
+        <item>Nasaaan ang sabaw!!!????</item>
+        <item>Get x Melloed</item>
+        <item>Have a great day</item>
+        <item>Stan Twice!</item>
+        <item>#MelloLab</item>
+        <item>We love you 243</item>
+        <item>Unli rice pleassee!</item>
+        <item>Y r u always at ur homescreen</item>
+        <item>Hmmm got games?</item>
+    </string-array>
+
 </resources>
