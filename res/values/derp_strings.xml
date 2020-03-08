@@ -146,4 +146,16 @@
     <string name="pref_allow_phone_overview_grid">Show grid of recent apps</string>
     <string name="pref_allow_phone_overview_grid_desc">More recent apps in overview</string>
 
+    <!-- Gestures -->
+    <string name="pref_homescreen_dt_gestures_title">Double tap</string>
+    <string name="pref_homescreen_dt_gestures_summary">Double tap feature</string>
+    <string name="pref_homescreen_gestures_none">None</string>
+    <string name="pref_homescreen_gestures_sleep">Screen off</string>
+    <string name="pref_homescreen_gestures_torch">Flashlight</string>
+    <string name="pref_homescreen_gestures_volume_panel">Volume panel</string>
+    <string name="pref_homescreen_gestures_clear_notifications">Clear notifications</string>
+    <string name="pref_homescreen_gestures_screenshot">Screenshot</string>
+    <string name="pref_homescreen_gestures_notifications">Notifications</string>
+    <string name="pref_homescreen_gestures_qspanel">QS panel</string>
+
 </resources>
