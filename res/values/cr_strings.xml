@@ -137,4 +137,8 @@
     
    <!-- Recents Scroll Vibration -->
     <string name="pref_recents_vibration_title">Enable haptic feedback on recents scroll</string>
+    
+    <!-- Hotseat Background -->
+    <string name="hotseat_bg_title">Show hotseat background</string>
+    <string name="hotseat_bg_summary">Adds a translucent background to the app dock</string>
 </resources>
