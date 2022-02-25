@@ -15,6 +15,7 @@
      limitations under the License.
 -->
 <com.android.quickstep.views.OverviewActionsView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:androidprv="http://schemas.android.com/apk/prv/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_gravity="center_horizontal|bottom">
@@ -22,17 +23,15 @@
     <LinearLayout
         android:id="@+id/action_buttons_parent"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="@dimen/overview_actions_height"
         android:layout_gravity="center"
-        android:layout_marginTop="10dp"
         android:orientation="vertical">
 
     <LinearLayout
         android:id="@+id/action_buttons"
         android:layout_width="match_parent"
-        android:layout_height="@dimen/overview_actions_height"
-        android:layout_gravity="bottom|center_horizontal"
-        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
         android:orientation="horizontal">
 
         <Space
@@ -40,28 +39,26 @@
             android:layout_height="1dp"
             android:layout_weight="1" />
 
-        <Button
+        <ImageButton
             android:id="@+id/action_screenshot"
-            android:layout_width="60dp"
-            android:layout_height="48dp"
-            android:background="@drawable/recent_button_bg"
-            android:backgroundTint="@color/recent_button_bg_color"
-            android:foreground="@drawable/ic_screenshot_overview"
-            android:foregroundGravity="center"/>
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content "
+            android:background="@drawable/rounded_bg"
+            android:tint="?androidprv:attr/colorAccent"
+            android:src"@drawable/ic_screenshot_overview"
 
         <Space
             android:layout_width="0dp"
             android:layout_height="1dp"
             android:layout_weight="1" />
 
-        <Button
+        <ImageButton
             android:id="@+id/action_clear_all"
-            android:layout_width="60dp"
-            android:layout_height="48dp"
-            android:background="@drawable/recent_button_bg"
-            android:backgroundTint="@color/recent_button_bg_color"
-            android:foreground="@drawable/ic_close_all"
-            android:foregroundGravity="center"/>
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/rounded_bg"
+            android:tint="?androidprv:attr/colorAccent"
+            android:src="@drawable/ic_close_all"
 
         <Space
             android:id="@+id/lens_space"
@@ -70,19 +67,18 @@
             android:layout_weight="1"
             android:visibility="gone" />
 
-        <Button
+        <ImageButton
             android:id="@+id/action_lens"
-            android:layout_width="60dp"
-            android:layout_height="48dp"
-            android:background="@drawable/recent_button_bg"
-            android:backgroundTint="@color/recent_button_bg_color"
-            android:foreground="@drawable/ic_lens"
-            android:foregroundGravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/rounded_bg"
+            android:tint="?androidprv:attr/colorAccent"
+            android:src="@drawable/ic_lens"
             android:visibility="gone"/>
 
         <Space
             android:id="@+id/action_split_space"
-            android:layout_width="@dimen/overview_actions_button_spacing"
+             android:layout_width="@dimen/overview_actions_button_spacing"
             android:layout_height="1dp"
             android:visibility="gone" />
 
@@ -113,7 +109,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:layout_marginTop="10dp"
         android:gravity="center"
         android:drawableStart="@drawable/ic_memory"
         android:drawablePadding="2dp"
@@ -129,8 +124,8 @@
         android:layout_marginStart="40dp"
         android:layout_marginEnd="40dp"
         android:scaleY="2"
-        android:progressBackgroundTint="?android:attr/colorAccent"
-        android:progressTint="?android:attr/colorAccent"
+        android:progressBackgroundTint="@*android:color/accent_device_default"
+        android:progressTint="@*android:color/accent_device_default"
         style="?android:attr/progressBarStyleHorizontal" />
 
 </LinearLayout>
