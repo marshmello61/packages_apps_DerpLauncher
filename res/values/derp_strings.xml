@@ -280,6 +280,95 @@
         <item>Hey! Hey! Please make me aesthetic!</item>
         <item>My jungler gets killed by a frog sometimes &#128128;</item>
     </string-array>
+    <string-array name="quickspace_psa_noon">
+        <item>Good afternoon..</item>
+        <item>The dawn will arrive sooner or later..</item>
+        <item>Health Glance: Stay Hydrated!</item>
+        <item>A Soda would be nice.</item>
+        <item>Go touch some grass!</item>
+        <item>Do something befor the day ends!</item>
+        <item>Get some snacks while you\'re at it.</item>
+        <item>I want to buy some siomai now..</item>
+        <item>Go out and have fun!</item>
+        <item>If a good time to go out and eat.</item>
+        <item>Did you have fun today?</item>
+        <item>We\'re almost there! Hang on!</item>
+        <item>Let\'s go for some ricebox!</item>
+        <item>It\'s nice to sleep under a tree..</item>
+        <item>I love watching the sunset..</item>
+        <item>Have you eaten your merienda?</item>
+        <item>How about some drinks?</item>
+        <item>Siesta at it\'s finest..</item>
+        <item>Craving for some empanada..</item>
+    </string-array>
+
+    <string-array name="quickspace_psa_morning_title">
+        <item>#DerpInTheMorning &#127834;</item>
+        <item>&#128191; KeSha - TiK ToK</item>
+        <item>&#128191; In The Morning - The Bee Gees</item>
+        <item>&#128191; Itzy - In the morning</item>
+        <item>&#128191; Chevy and Nalba - morning coffee</item>
+        <item>&#128191; Kanye West - Good Morning</item>
+        <item>#DerpAndShine &#9728;&#65039;</item>
+        <item>#GoodMorning &#9728;&#65039;</item>
+        <item>#MelloOfTheKing &#128081;</item>
+        <item>#MelloingSun &#9728;&#65039;</item>
+        <item>#WarmDerp &#127834;</item>
+    </string-array>
+    <string-array name="quickspace_psa_noon_title">
+        <item>#MelloLab &#127834;</item>
+        <item>&#128191; Twice - The Feels</item>
+        <item>&#128191; Bastille - Pompeii </item>
+        <item>&#128191; American Authors - Best Day Of My Life</item>
+        <item>&#128191; Lalisa - Money</item>
+        <item>&#128191; Imagine Dragons - On Top Of The World</item>
+        <item>#Sunset &#127751;</item>
+        <item>#DerpFest &#127834;</item>
+        <item>#SiestaDerp &#128081;</item>
+        <item>#DerpingNoon &#9729;&#65039;</item>
+        <item>#Afternoon &#127751;</item>
+    </string-array>
+    <string-array name="quickspace_psa_evening_title">
+        <item>#MelloLab &#127769;</item>
+        <item>&#128191; Jo Yuri - Love shhh!</item>
+        <item>&#128191; Viviz - Bop Bop! </item>
+        <item>&#128191; Twice - Dance the Night Away</item>
+        <item>&#128191; Avicii - The Nights</item>
+        <item>&#128191; One Direction - Night Changes</item>
+        <item>#MelloNight &#127769;</item>
+        <item>#DerpingStar &#127775;</item>
+        <item>#Goodnight &#127769;</item>
+        <item>#Sleepwell &#128564;</item>
+        <item>#HadDinner &#127834;</item>
+    </string-array>
+    <string-array name="quickspace_psa_midnight_title">
+        <item>#GetHelp</item>
+        <item>#AreYouOk</item>
+        <item>#SleepNow</item>
+        <item>#GettingDrowzy</item>
+        <item>#Call911</item>
+        <item>#RestinPeace</item>
+        <item>#IfYouWontSleepIwill</item>
+        <item>#RoadToHeaven101</item>
+        <item>#YouWillbe404</item>
+    </string-array>
+    <string-array name="quickspace_psa_random_title">
+        <item>#MelloLab &#127834;</item>
+        <item>#Calamares &#129425;</item>
+        <item>#StayDerped &#127858;</item>
+        <item>#StanTwice &#127853;</item>
+        <item>#GrabASneaker &#127851;</item>
+        <item>#StanViviz &#129418;</item>
+        <item>#UnliMello &#127834;</item>
+        <item>#crDroidLMAO &#127835;</item>
+        <item>&#128191; Fight Song - Manny Pacquiao</item>
+        <item>&#128191; For you i will fight - Manny Pacquiao</item>
+        <item>&#128191; Derp to the Moon - Martins Bruno</item>
+        <item>&#128191; Love the way u deep - Rihoney x Menime</item>
+        <item>&#128191; Carry me to home - The lingsweeps </item>
+        <item>&#128191; Natirang gone - 9 Gloc</item>
+        <item>&#128191; Legends nevern\'t derp - Against the Fest</item>
+    </string-array>
 
     <string name="custom_date_strings">EEE, MMM d</string>
 </resources>
