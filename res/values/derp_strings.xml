@@ -27,10 +27,10 @@
         <item>#GrabASneaker &#127851;</item>
         <item>#StanViviz &#129418;</item>
         <item>#UnliRice &#127834;</item>
-        <item>&#127925; Rice to the Moon - Martins Bruno</item>
-        <item>&#127925; Love the way u rice - Rihoney x Menime</item>
-        <item>&#127925; Natirang gone - 9 Gloc</item>
-        <item>&#127925; Legends nevern\'t rice - Against the Curry</item>
+        <item>&#128191; Rice to the Moon - Martins Bruno</item>
+        <item>&#128191; Love the way u rice - Rihoney x Menime</item>
+        <item>&#128191; Natirang gone - 9 Gloc</item>
+        <item>&#128191; Legends nevern\'t rice - Against the Curry</item>
     </string-array>
     
     <string-array name="quickspace_psa_morning">
@@ -38,12 +38,13 @@
         <item>Good morning my friend!</item>
         <item>What a beautiful day!</item>
         <item>Have a nice day!</item>
-        <item>Good morning beauty! -not dfntly automated</item>
+        <item>Health Glance: A little exercise would be nice</item>
+        <item>Good morning beauty! - not dfntly automated</item>
         <item>Uhhh.. 5 more minutes...</item>
         <item>I pour milk first before cereal...</item>
         <item>Good morning handsome! -not dfntly automated</item>
         <item>The weather is good, i mean 32C. unsupported msg.</item>
-        <item>Weather is cold hot winter,spring, summer or fall &#127925;</item>
+        <item>Weather is cold hot winter,spring, summer or fall &#128191;</item>
         <item>That\'s one way to wake up.</item>
         <item>Rest in peace melatonin.</item>
         <item>You should change your alarm sounds.</item>
@@ -54,25 +55,27 @@
         <item>The weather for today is.. idk</item>
         <item>Feeling a bit sleepy yet</item>
         <item>Have you looked outside yet?</item>
+        <item>Health Glance: Stay Hydrated!</item>
         <item>Let\'s get this done.</item>
     </string-array>
     <string-array name="quickspace_psa_noon">
         <item>Good afternoon..</item>
-        <item>It\'s getting late now..</item>
-        <item>The sweet smell of home..</item>
-        <item>Time to buy some drinks!</item>
-        <item>The night is near..</item>
-        <item>The day is almost done..</item>
+        <item>The dawn will arrive sooner or later..</item>
+        <item>Health Glance: Stay Hydrated!</item>
+        <item>A Soda would be nice.</item>
+        <item>Go touch some grass!</item>
+        <item>Do something befor the day ends!</item>
         <item>Get some snacks while you\'re at it.</item>
         <item>I want to buy some siomai now..</item>
-        <item>Time to go home!</item>
-        <item>Maybe it\'s time to prepare your dinner?</item>
+        <item>Go out and have fun!</item>
+        <item>If a good time to go out and eat.</item>
         <item>Did you have fun today?</item>
         <item>We\'re almost there! Hang on!</item>
         <item>Let\'s go for some ricebox!</item>
         <item>It\'s nice to sleep under a tree..</item>
         <item>I love watching the sunset..</item>
         <item>Have you eaten your merienda?</item>
+        <item>How about some drinks?</item>
         <item>Siesta at it\'s finest..</item>
         <item>Craving for some empanada..</item>
     </string-array>
@@ -95,6 +98,7 @@
         <item>Rest in peace melatonin (2).</item>
         <item>Dance the night away...</item>
         <item>Aren\'t the moon and stars amazing? </item>
+        <item>Health Glance: 8 hours of sleep is a must!</item>
         <item>There are many what ifs in this world. Relax.</item>
     </string-array>
     <string-array name="quickspace_psa_midnight">
@@ -109,6 +113,7 @@
         <item>zzzzzZZZZzzzzzz</item>
         <item>I was able to sleep, but you weren\'t!??</item>
         <item>I bet you lost a lot of ranked matches. LMAO</item>
+        <item>Health Glance: 8 hours of sleep is a must!</item>
         <item>Go ahead drink a cup of coffee, i\'ll contact st. Peter</item>
     </string-array>
     <string-array name="quickspace_psa_random">
@@ -117,6 +122,7 @@
         <item>Where is the subdivision? - Cynthia</item>
         <item>What the heal? - definitely not Rafaela</item>
         <item>You\'re Road - Jenny</item>
+        <item>Health Glance: Stay Hydrated!</item>
         <item>The clock is just pixels above me...</item>
         <item>I don\'t have Nowplaying API &#128557; (cries in aosp)</item>
         <item>It\'s because im an advanced thinker - A scammer</item>
@@ -141,11 +147,11 @@
 
     <string-array name="quickspace_psa_morning_title">
         <item>#RiceInTheMorning &#127834;</item>
-        <item>&#127925; KeSha - TiK ToK</item>
-        <item>&#127925; In The Morning - The Bee Gees</item>
-        <item>&#127925; Itzy - In the morning</item>
-        <item>&#127925; Chevy and Nalba - morning coffee</item>
-        <item>&#127925; Kanye West - Good Morning</item>
+        <item>&#128191; KeSha - TiK ToK</item>
+        <item>&#128191; In The Morning - The Bee Gees</item>
+        <item>&#128191; Itzy - In the morning</item>
+        <item>&#128191; Chevy and Nalba - morning coffee</item>
+        <item>&#128191; Kanye West - Good Morning</item>
         <item>#RiceAndShine &#9728;&#65039;</item>
         <item>#GoodMorning &#9728;&#65039;</item>
         <item>#RiceOfTheKing &#128081;</item>
@@ -154,11 +160,11 @@
     </string-array>
     <string-array name="quickspace_psa_noon_title">
         <item>#NoonRice &#127834;</item>
-        <item>&#127925; Twice - The Feels</item>
-        <item>&#127925; Bastille - Pompeii </item>
-        <item>&#127925; American Authors - Best Day Of My Life</item>
-        <item>&#127925; Lalisa - Money</item>
-        <item>&#127925; Imagine Dragons - On Top Of The World</item>
+        <item>&#128191; Twice - The Feels</item>
+        <item>&#128191; Bastille - Pompeii </item>
+        <item>&#128191; American Authors - Best Day Of My Life</item>
+        <item>&#128191; Lalisa - Money</item>
+        <item>&#128191; Imagine Dragons - On Top Of The World</item>
         <item>#Sunset &#127751;</item>
         <item>#RiceBox &#127834;</item>
         <item>#SiestaRice &#128081;</item>
@@ -167,11 +173,11 @@
     </string-array>
     <string-array name="quickspace_psa_evening_title">
         <item>#MoonRice &#127769;</item>
-        <item>&#127925; Jo Yuri - Love shhh!</item>
-        <item>&#127925; Viviz - Bop Bop! </item>
-        <item>&#127925; Twice - Dance the Night Away</item>
-        <item>&#127925; Avicii - The Nights</item>
-        <item>&#127925; One Direction - Night Changes</item>
+        <item>&#128191; Jo Yuri - Love shhh!</item>
+        <item>&#128191; Viviz - Bop Bop! </item>
+        <item>&#128191; Twice - Dance the Night Away</item>
+        <item>&#128191; Avicii - The Nights</item>
+        <item>&#128191; One Direction - Night Changes</item>
         <item>#RiceNight &#127769;</item>
         <item>#RicingStar &#127775;</item>
         <item>#Goodnight &#127769;</item>
@@ -184,6 +190,10 @@
         <item>#SleepNow</item>
         <item>#GettingDrowzy</item>
         <item>#Call911</item>
+        <item>#RestinPeace</item>
+        <item>#IfYouWontSleepIwill</item>
+        <item>#RoadToHeaven101</item>
+        <item>#YouWillbe404</item>
     </string-array>
     <string-array name="quickspace_psa_random_title">
         <item>#GetRiced &#127834;</item>
@@ -193,10 +203,14 @@
         <item>#GrabASneaker &#127851;</item>
         <item>#StanViviz &#129418;</item>
         <item>#UnliRice &#127834;</item>
-        <item>&#127925; Rice to the Moon - Martins Bruno</item>
-        <item>&#127925; Love the way u rice - Rihoney x Menime</item>
-        <item>&#127925; Natirang gone - 9 Gloc</item>
-        <item>&#127925; Legends nevern\'t rice - Against the Curry</item>
+        <item>#CurryRice &#127835;</item>
+        <item>&#128191; Fight Song - Manny Pacquiao</item>
+        <item>&#128191; For you i will fight - Manny Pacquiao</item>
+        <item>&#128191; Rice to the Moon - Martins Bruno</item>
+        <item>&#128191; Love the way u rice - Rihoney x Menime</item>
+        <item>&#128191; Curry me to home - The lingsweeps </item>
+        <item>&#128191; Natirang gone - 9 Gloc</item>
+        <item>&#128191; Legends nevern\'t rice - Against the Curry</item>
     </string-array>
 
     <string name="custom_date_strings">EEE, MMM d</string>
