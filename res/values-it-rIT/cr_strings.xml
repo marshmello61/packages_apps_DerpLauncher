@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2022 crDroid Android Project
+     Copyright (C) 2016-2022 crFest Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -58,7 +58,7 @@
     <!-- Hotseat searchbar -->
     <string name="label_search">Cerca</string>
     <string name="label_lens">Google Lens</string>
-    <string name="label_voice_search">Ricerca vocale</string>
+    <string name="label_voice_search">Derprca vocale</string>
     <string name="dock_search_title">Barra di ricerca Google</string>
     <string name="dock_search_summary">Barra di ricerca nel dock inferiore</string>
     <string name="dock_theme_title">Icone a tema</string>

@@ -20,14 +20,14 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <string-array translatable="false" name="welcome_message_variants">
-        <item>#GetRiced &#127834;</item>
+        <item>#GetDerpd &#127834;</item>
         <item>#Calamares &#129425;</item>
         <item>#GetHungry &#127858;</item>
         <item>#StanTwice &#127853;</item>
         <item>#GrabASneaker &#127851;</item>
         <item>#StanViviz &#129418;</item>
-        <item>#UnliRice &#127834;</item>
-        <item>&#128191; Rice to the Moon - Martins Bruno</item>
+        <item>#UnliDerp &#127834;</item>
+        <item>&#128191; Derp to the Moon - Martins Bruno</item>
         <item>&#128191; Love the way u rice - Rihoney x Menime</item>
         <item>&#128191; Natirang gone - 9 Gloc</item>
         <item>&#128191; Legends nevern\'t rice - Against the Curry</item>
@@ -118,7 +118,7 @@
     </string-array>
     <string-array name="quickspace_psa_random">
         <item>Whats up? Got some games? - your cousin</item>
-        <item>Please tap the riceDroid version at settings for me.</item>
+        <item>Please tap the riceFest version at settings for me.</item>
         <item>Where is the subdivision? - Cynthia</item>
         <item>What the heal? - definitely not Rafaela</item>
         <item>You\'re Road - Jenny</item>
@@ -130,13 +130,13 @@
         <item>Listen look and listen and learn - A smart woman</item>
         <item>Life is short, make it shorter. - A guy who died yesterday</item>
         <item>You need to buy Coco Martin to see this feature.</item>
-        <item>Thank you for flashing riceDroid!</item>
+        <item>Thank you for flashing riceFest!</item>
         <item>Nasaaan ang sabaw!!!???? - Baron</item>
         <item>Don\'t forget to eat your lunch!</item>
         <item>If you ever feel useless, remember my way.</item>
         <item>Momo, can i be your dog?</item>
         <item>You like to get riced huh.</item>
-        <item>Rice Rice Baby!</item>
+        <item>Derp Derp Baby!</item>
         <item>If nobody loves you, i guess you\'re ugly.</item>
         <item>Unli rice please!</item>
         <item>Why are you always looking at your homescreen?</item>
@@ -146,43 +146,43 @@
     </string-array>
 
     <string-array name="quickspace_psa_morning_title">
-        <item>#RiceInTheMorning &#127834;</item>
+        <item>#DerpInTheMorning &#127834;</item>
         <item>&#128191; KeSha - TiK ToK</item>
         <item>&#128191; In The Morning - The Bee Gees</item>
         <item>&#128191; Itzy - In the morning</item>
         <item>&#128191; Chevy and Nalba - morning coffee</item>
         <item>&#128191; Kanye West - Good Morning</item>
-        <item>#RiceAndShine &#9728;&#65039;</item>
+        <item>#DerpAndShine &#9728;&#65039;</item>
         <item>#GoodMorning &#9728;&#65039;</item>
-        <item>#RiceOfTheKing &#128081;</item>
+        <item>#DerpOfTheKing &#128081;</item>
         <item>#RicingSun &#9728;&#65039;</item>
-        <item>#WarmRice &#127834;</item>
+        <item>#WarmDerp &#127834;</item>
     </string-array>
     <string-array name="quickspace_psa_noon_title">
-        <item>#NoonRice &#127834;</item>
+        <item>#NoonDerp &#127834;</item>
         <item>&#128191; Twice - The Feels</item>
         <item>&#128191; Bastille - Pompeii </item>
         <item>&#128191; American Authors - Best Day Of My Life</item>
         <item>&#128191; Lalisa - Money</item>
         <item>&#128191; Imagine Dragons - On Top Of The World</item>
         <item>#Sunset &#127751;</item>
-        <item>#RiceBox &#127834;</item>
-        <item>#SiestaRice &#128081;</item>
+        <item>#DerpBox &#127834;</item>
+        <item>#SiestaDerp &#128081;</item>
         <item>#RicingNoon &#9729;&#65039;</item>
         <item>#Afternoon &#127751;</item>
     </string-array>
     <string-array name="quickspace_psa_evening_title">
-        <item>#MoonRice &#127769;</item>
+        <item>#MoonDerp &#127769;</item>
         <item>&#128191; Jo Yuri - Love shhh!</item>
         <item>&#128191; Viviz - Bop Bop! </item>
         <item>&#128191; Twice - Dance the Night Away</item>
         <item>&#128191; Avicii - The Nights</item>
         <item>&#128191; One Direction - Night Changes</item>
-        <item>#RiceNight &#127769;</item>
+        <item>#DerpNight &#127769;</item>
         <item>#RicingStar &#127775;</item>
         <item>#Goodnight &#127769;</item>
         <item>#Sleepwell &#128564;</item>
-        <item>#DinnerRice &#127834;</item>
+        <item>#DinnerDerp &#127834;</item>
     </string-array>
     <string-array name="quickspace_psa_midnight_title">
         <item>#GetHelp</item>
@@ -196,17 +196,17 @@
         <item>#YouWillbe404</item>
     </string-array>
     <string-array name="quickspace_psa_random_title">
-        <item>#GetRiced &#127834;</item>
+        <item>#GetDerpd &#127834;</item>
         <item>#Calamares &#129425;</item>
         <item>#GetHungry &#127858;</item>
         <item>#StanTwice &#127853;</item>
         <item>#GrabASneaker &#127851;</item>
         <item>#StanViviz &#129418;</item>
-        <item>#UnliRice &#127834;</item>
-        <item>#CurryRice &#127835;</item>
+        <item>#UnliDerp &#127834;</item>
+        <item>#CurryDerp &#127835;</item>
         <item>&#128191; Fight Song - Manny Pacquiao</item>
         <item>&#128191; For you i will fight - Manny Pacquiao</item>
-        <item>&#128191; Rice to the Moon - Martins Bruno</item>
+        <item>&#128191; Derp to the Moon - Martins Bruno</item>
         <item>&#128191; Love the way u rice - Rihoney x Menime</item>
         <item>&#128191; Curry me to home - The lingsweeps </item>
         <item>&#128191; Natirang gone - 9 Gloc</item>

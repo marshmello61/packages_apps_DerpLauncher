@@ -39,7 +39,7 @@
 
         <Preference
             android:key="about_credit01"
-            android:title="crDroid team"
+            android:title="crFest team"
             android:persistent="false"
             android:selectable="false">
         </Preference>
