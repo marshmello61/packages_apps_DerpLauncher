@@ -45,7 +45,7 @@
             android:layout_height="wrap_content "
             android:background="@drawable/rounded_bg"
             android:tint="?androidprv:attr/colorAccent"
-            android:src"@drawable/ic_screenshot_overview"
+            android:src="@drawable/ic_screenshot_overview"/>
 
         <Space
             android:layout_width="0dp"
@@ -58,7 +58,7 @@
             android:layout_height="wrap_content"
             android:background="@drawable/rounded_bg"
             android:tint="?androidprv:attr/colorAccent"
-            android:src="@drawable/ic_close_all"
+            android:src="@drawable/ic_close_all"/>
 
         <Space
             android:id="@+id/lens_space"
@@ -84,7 +84,6 @@
 
         <Button
             android:id="@+id/action_split"
-            style="@style/OverviewActionButton"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/action_split"
